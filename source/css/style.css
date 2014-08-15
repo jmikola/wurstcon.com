@@ -1,0 +1,56 @@
+@import url(http://fonts.googleapis.com/css?family=Lilita+One|Sigmar+One|Open+Sans);
+
+body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body > header a.navbar-brand {
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("/images/hotdog.png");
+    padding-left: 64px;
+    font-family: "Sigmar One", cursive;
+    font-weight: normal;
+}
+
+body > header ul.navbar-nav li i.fa { margin-right: 0.5em; }
+
+#content {
+    font-size: 1.5em;
+}
+
+#content div.jumbotron-wrapper {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/images/death_by_encased_meat.jpg");
+    border-radius: 6px;
+}
+
+#content div.jumbotron {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+#content div.jumbotron p {
+    font-size: 1.5em;
+    margin: 1em;
+}
+
+h1 { font-family: "Sigmar One", cursive; }
+
+h2 {
+    font-family: "Lilita One", cursive;
+    font-size: 2em;
+    margin-top: 1em;
+}
+
+body > footer {
+    border-top: 3px solid #ddd;
+    margin: 1em 0 1em;
+    padding-top: 0.5em;
+}
+
+body > footer p.byline {
+    font-weight: bold;
+    opacity: 0.5;
+}

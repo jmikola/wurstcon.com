@@ -32,7 +32,7 @@ body > header ul.navbar-nav li i.fa { margin-right: 0.5em; }
 }
 
 #content div.jumbotron p {
-    font-size: 1.5em;
+    font-size: 1.2em;
     margin: 1em;
 }
 
@@ -42,6 +42,21 @@ h2 {
     font-family: "Lilita One", cursive;
     font-size: 2em;
     margin-top: 1em;
+}
+
+table.schedule th > h2 {
+    text-align: center;
+    margin-top: 0;
+}
+
+table.schedule td > h3 {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+table.schedule td > h3 > span {
+    font-size: 0.8em;
+    color: #666;
 }
 
 body > footer {

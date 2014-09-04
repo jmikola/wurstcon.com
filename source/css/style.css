@@ -14,6 +14,10 @@ body > header a.navbar-brand {
     font-weight: normal;
 }
 
+body > header:hover a.navbar-brand {
+    background-image: url("/images/hotdog_color.png");
+}
+
 body > header ul.navbar-nav li i.fa { margin-right: 0.5em; }
 
 #content {

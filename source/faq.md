@@ -38,8 +38,8 @@ that he was too cool for school.
 
 ## And Where, Exactly?
 
-[Hot Doug's][hotdougs], which is located in the Avondale suburb of Chicago, IL.
-Details on the venue may be found on its website, as well as
+[Hot Doug's][hotdougs], which is located in the Avondale neighborhood of
+Chicago, IL. Details on the venue may be found on its website, as well as
 [Foursquare][hotdougs-foursquare] and [Yelp][hotdougs-yelp].
 
 <iframe style="width: 100%; height: 10em; border: 0" frameborder="0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA5w1FeS3IO8AEPLkfGajAnnzh0gZU5jnU&q=Hot+Dougs,Chicago+IL"></iframe>

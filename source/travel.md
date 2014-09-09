@@ -27,7 +27,7 @@ for the ride. Along the way, the group will stop over in Defiance, OH to pick up
 [Chris Tankersley] for the last leg of the journey.
 
 The Hyundai Santa Fe was awarded the Consumer Reports "top pick" in 2008.
-Unfortunately, these gentlemen will be riding in a 2005 model.
+Unfortunately, these gentlemen will be riding in a 2006 model.
 
   [Airbnb]: https://www.airbnb.com/s/Chicago--IL
   [Chris Tankersley]: http://twitter.com/dragonmantank

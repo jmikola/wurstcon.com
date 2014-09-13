@@ -35,11 +35,6 @@ body > header ul.navbar-nav li i.fa { margin-right: 0.5em; }
     background-color: rgba(255, 255, 255, 0.8);
 }
 
-#content div.jumbotron p {
-    font-size: 1.2em;
-    margin: 1em;
-}
-
 h1 { font-family: "Sigmar One", cursive; }
 
 h2 {

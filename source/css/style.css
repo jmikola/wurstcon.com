@@ -24,17 +24,6 @@ body > header ul.navbar-nav li i.fa { margin-right: 0.5em; }
     font-size: 1.5em;
 }
 
-#content div.jumbotron-wrapper {
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-image: url("/images/death_by_encased_meat.jpg");
-    border-radius: 6px;
-}
-
-#content div.jumbotron {
-    background-color: rgba(255, 255, 255, 0.8);
-}
-
 #content div.sponsor {
     text-align: center;
     padding-bottom: 0.5em;

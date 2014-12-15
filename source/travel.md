@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Travel
+draft: true
 
 ---
 ## Hotel Accomodations

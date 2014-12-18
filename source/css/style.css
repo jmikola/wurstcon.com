@@ -20,8 +20,8 @@ body > header:hover a.navbar-brand {
 
 body > header ul.navbar-nav li i.fa { margin-right: 0.5em; }
 
-#content {
-    font-size: 1.5em;
+@media (min-width: 992px) {
+    #content { font-size: 1.25em; }
 }
 
 #content div.sponsor {

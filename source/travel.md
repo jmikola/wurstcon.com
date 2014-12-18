@@ -6,35 +6,45 @@ draft: true
 ---
 ## Hotel Accomodations
 
-We've reserved a private 8-bunk room at [Wrigley Hostel][hostel], located just
-two miles east of Hot Doug's and sporting a solid rating on various travel sites
-(upwards of 4.5 out of 5!). The Sante Fe carpool group (see below) will occupy
-five of these beds, which which leaves three vacancies for other WurstCon
-attendees. If you're interesting in reserving a bunk, ping us in the
-[Facebook group][facebook]!
-
-<iframe style="width: 100%; height: 10em; border: 2px solid #666" frameborder="0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA5w1FeS3IO8AEPLkfGajAnnzh0gZU5jnU&q=3514+N+Sheffield+Ave%2C+Chicago%2C+IL+60657"></iframe>
+TBD.
 
 ----
 
-## Road Trip
+## Planes, Trains, and Automobiles
 
-<img src="/images/roadtrip.jpg" class="img-responsive img-rounded">
+### Antwerp to Köln
 
-That's right. In a remarkable vote of confidence for WurstCon, [Chuck Reeves]
-has kindly volunteered to drive his Hyundai Santa Fe from New York to Chicago.
-[Jeremy Mikola], [Daniel Cousineau], and [Phil Sturgeon] will be coming along
-for the ride. Along the way, the group will stop over in Defiance, OH to pick up
-[Chris Tankersley] for the last leg of the journey.
+If you&rsquo;re attending PHP Benelux before WurstCon, we&rsquo;d be delighted
+to have you join our train convoy from Antwerp to Köln. [Jordi][seldaek] speaks
+European and was kind enough to provide the following instructions:
 
-The Hyundai Santa Fe was awarded the Consumer Reports "top pick" in 2008.
-Unfortunately, these gentlemen will be riding in a 2006 model.
+ 1. Open [this link][booking] to start the booking process.
+ 2. Scroll down to the 13:40 &rarr; 16.15 (IC / ICE) train, which has one change.
+ 3. Select the cheapest price (e.g. semi-flex for about €40)
+ 4. Deselect the seat reservation option. This will allow us the chance to sit
+    as a group for the second leg between Brussels and Köln.
+ 5. Press "Confirm Selection" button to continue.
 
-  [Airbnb]: https://www.airbnb.com/s/Chicago--IL
-  [Chris Tankersley]: http://twitter.com/dragonmantank
-  [Chuck Reeves]: https://twitter.com/manchuck
-  [Daniel Cousineau]: https://twitter.com/dcousineau
-  [facebook]: https://www.facebook.com/events/280807642103459
-  [hostel]: http://www.wrigleyhostel.com/
-  [Jeremy Mikola]: https://twitter.com/jmikola
-  [Phil Sturgeon]: https://twitter.com/philsturgeon
+The confirmation screen should resemble the following:
+
+<img src="/images/train-antwerp_to_koln.png" class="img-responsive img-rounded" style="border: 1px solid black">
+
+The ticket you&rsquo;re purchasing will allow you to take any train to Brussels
+from within Belgium, and at any time during the day. We will likely board an
+earlier train in Antwerp at 13:17 to allow us some additional time to connect
+to second leg between Brussels and Köln.
+
+Proceed with payment and do *not* attempt to use **WURST** as a promotional code.
+
+<div class="alert alert-info" role="alert">
+    <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+    <i class="fa fa-lightbulb-o fa-4x pull-left"></i> If you're under 26 years
+    old, you may be able to get a cheaper ticket if you start the booking
+    process from scratch; however, we don't have instructions for you.
+    You&rsquo;re young, though. You can do it.
+</div>
+
+  *[IC]: Inter-city
+  *[ICE]: Inter-city Express
+  [booking]: http://goo.gl/GRNGDP
+  [seldaek]: https://twitter.com/seldaek

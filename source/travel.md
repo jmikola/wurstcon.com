@@ -18,11 +18,11 @@ If you&rsquo;re attending PHP Benelux before WurstCon, we&rsquo;d be delighted
 to have you join our train convoy from Antwerp to Köln. [Jordi][seldaek] speaks
 European and was kind enough to provide the following instructions:
 
- 1. Open [this link][booking] to start the booking process.
- 2. Scroll down to the 13:40 &rarr; 16.15 (IC / ICE) train, which has one change.
+ 1. Open [this link](http://goo.gl/GRNGDP) to start the booking process.
+ 2. Select the 13:40 &rarr; 16.15 (IC/ICE) train, which has one change.
  3. Select the cheapest price (e.g. semi-flex for about €40)
- 4. Deselect the seat reservation option. This will allow us the chance to sit
-    as a group for the second leg between Brussels and Köln.
+ 4. Deselect the seat reservation option. This will allow everyone the chance to
+    sit as a group.
  5. Press "Confirm Selection" button to continue.
 
 The confirmation screen should resemble the following:
@@ -44,7 +44,26 @@ Proceed with payment and do *not* attempt to use **WURST** as a promotional code
     You&rsquo;re young, though. You can do it.
 </div>
 
+### Köln to Amsterdam
+
+If you&rsquo;re planning to head to Amsterdam after the main event on Sunday
+(instead of sticking around for the Monday meetup in Köln), you may consider the
+following itinerary:
+
+ 1. Open [this link](http://goo.gl/LcZWxW) to start the booking process.
+ 2. Select the 10:42 &rarr; 13:27 (ICE) train, which is direct.
+ 3. Select the cheapest price (e.g. semi-flex for about €20)
+ 4. Deselect the seat reservation option. This will allow everyone the chance to
+    sit as a group.
+ 5. Press "Confirm Selection" button to continue.
+
+The confirmation screen should resemble the following:
+
+<img src="/images/train-koln_to_amsterdam.png" class="img-responsive img-rounded" style="border: 1px solid black">
+
+Proceed with payment and don&rsquo;t even think about using **WURST** as a
+promotional code.
+
   *[IC]: Inter-city
   *[ICE]: Inter-city Express
-  [booking]: http://goo.gl/GRNGDP
   [seldaek]: https://twitter.com/seldaek

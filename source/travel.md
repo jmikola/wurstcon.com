@@ -6,7 +6,14 @@ draft: true
 ---
 ## Hotel Accomodations
 
-TBD.
+### Köln
+
+We suggest [Mercure Hotel Köln City Friesenstraße][mercure] for Sunday and
+Monday. The hotel is located less than a block away from the karaoke bar we plan
+to patronize on Sunday night, and offers a veritable smörgåsbord of amenities
+limited only by the amount of money you're willing to spend.
+
+<iframe style="width: 100%; height: 10em; border: 2px solid #666" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10056.288971849273!2d6.9429!3d50.940877!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2a6a4f73b34b5c91!2sMercure+Hotel+Koeln+City+Friesenstra%C3%9Fe!5e0!3m2!1sen!2sus!4v1419028878427"></iframe>
 
 ----
 
@@ -66,4 +73,5 @@ promotional code.
 
   *[IC]: Inter-city
   *[ICE]: Inter-city Express
+  [mercure]: http://www.mercure.com/de/hotel-5364-mercure-hotel-koeln-city-friesenstrasse/index.shtml
   [seldaek]: https://twitter.com/seldaek

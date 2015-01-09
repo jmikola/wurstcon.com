@@ -37,7 +37,12 @@ h2 {
     margin-top: 1em;
 }
 
-table.schedule th > h2 {
+table.schedule th {
+    background-color: #eee;
+}
+
+table.schedule th > h2,
+table.schedule th > h3 {
     text-align: center;
     margin-top: 0;
 }
@@ -47,6 +52,7 @@ table.schedule td > h3 {
     font-weight: bold;
 }
 
+table.schedule th > h3 > span,
 table.schedule td > h3 > span {
     font-size: 0.8em;
     color: #666;

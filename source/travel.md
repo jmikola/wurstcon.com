@@ -15,6 +15,15 @@ limited only by the amount of money you're willing to spend.
 
 <iframe style="width: 100%; height: 10em; border: 2px solid #666" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10056.288971849273!2d6.9429!3d50.940877!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2a6a4f73b34b5c91!2sMercure+Hotel+Koeln+City+Friesenstra%C3%9Fe!5e0!3m2!1sen!2sus!4v1419028878427"></iframe>
 
+### Brussels
+
+Some of us will be staying at the [Meininger Hotel][meininger] in the heart of
+Brussels between Friday and Monday for FOSDEM. The hotel is located a couple of
+transit hops from the FOSDEM venue, but is centrally located if you plan to
+explore the city during your stay.
+
+<iframe style="width: 100%; height: 10em; border: 2px solid #666" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2518.9038361191647!2d4.338366000000012!3d50.85146500000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c38bc8f50f41%3A0x35d52e894dfa5be!2sMEININGER+Hotel+Br%C3%BCssel+City+Center!5e0!3m2!1sen!2sus!4v1420832899161"></iframe>
+
 ----
 
 ## Planes, Trains, and Automobiles
@@ -71,7 +80,19 @@ The confirmation screen should resemble the following:
 Proceed with payment and don&rsquo;t even think about using **WURST** as a
 promotional code.
 
+### Köln to Frankfurt and Berlin
+
+If you're continuing the tour through Germany, you'll find details for train
+reservations in [this Facebook thread][fb-travel]. [Yitz][coderabbi] and
+[Davey][dshafik] will be taking trains between all three cities, while
+[Jeremy][jmikola] will be skipping Frankfurt and head directly to Berlin. Folks
+are taking various methods of transport back to Brussels for FOSDEM.
+
   *[IC]: Inter-city
   *[ICE]: Inter-city Express
+  [coderabbi]: http://twitter.com/coderabbi
+  [dshafik]: http://twitter.com/dshafik
+  [fb-travel]: https://www.facebook.com/events/510589579081067/permalink/529504343856257/
+  [meininger]: http://www.meininger-hotels.com/en/hotels/brussels/
   [mercure]: http://www.mercure.com/de/hotel-5364-mercure-hotel-koeln-city-friesenstrasse/index.shtml
   [seldaek]: https://twitter.com/seldaek

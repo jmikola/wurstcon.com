@@ -93,6 +93,7 @@ are taking various methods of transport back to Brussels for FOSDEM.
   [coderabbi]: http://twitter.com/coderabbi
   [dshafik]: http://twitter.com/dshafik
   [fb-travel]: https://www.facebook.com/events/510589579081067/permalink/529504343856257/
+  [jmikola]: https://twitter.com/jmikola
   [meininger]: http://www.meininger-hotels.com/en/hotels/brussels/
   [mercure]: http://www.mercure.com/de/hotel-5364-mercure-hotel-koeln-city-friesenstrasse/index.shtml
   [seldaek]: https://twitter.com/seldaek

@@ -4,6 +4,13 @@ title: Travel
 draft: true
 
 ---
+<div class="alert alert-info" role="alert">
+    <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+    <i class="fa fa-lightbulb-o fa-2x pull-left"></i> This information pertains
+    to <a href="/2015-europe">WurstCon 2015: Europe</a>, and is a bit
+    outdated.
+</div>
+
 ## Hotel Accomodations
 
 ### Köln

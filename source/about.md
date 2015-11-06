@@ -16,6 +16,7 @@ likely that we're not fooling anybody.
 
 Images used throughout the site are happily attributed to:
 
+ * [Paul Bica](https://www.flickr.com/photos/dexxus) took that [beautiful photo of Toronto](https://www.flickr.com/photos/dexxus/2721928484)
  * [Fred Arminsen](http://www.imdb.com/name/nm0035488/) as the &ldquo;creepy Italian guy&rdquo; from [EuroTrip](http://www.imdb.com/title/tt0356150/)
  * Hot Dog icon by [Helen Tseng](http://www.thenounproject.com/chirp) from
    the [Noun Project](http://www.thenounproject.com)

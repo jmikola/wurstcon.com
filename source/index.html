@@ -1,16 +1,37 @@
 ---
 layout: default
-title: WurstCon 2015
-
+title: Home Of The Wurst PHP Conference Ever
+generator: pagination
+pagination:
+    max_per_page: 100
+use: [events]
 ---
-{% block content_wrapper %}
-    <div id="content" class="container">
-        <div style="margin-bottom: 1em;">
-            <img src="/images/toronto.jpg" class="img-responsive img-rounded">
+
+{% set now = "now"|date_modify("-2 day")|date("U") %}
+{% set found = false %}
+
+{% for event in data.events|reverse %}
+
+    {% if event.date >= now %}
+        <h1>{{ event.title }}</h1>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">Event Info</div>
+            <div class="panel-body">
+                {% if event.eventbrite is not empty %}
+                    Tickets: <a href="{{ event.eventbrite }}">{{ event.eventbrite }}</a><br />
+                {% endif %}
+                Venue: {{ event.venue }}<br />
+                Address: {{ event.address }}<br />
+            </div>
         </div>
 
-        <p>Canadians like sausage, too, eh! After <a href="http://truenorthphp.ca/">True North PHP</a> wraps up, WurstCon will be heading to downtown Toronto on Sunday, November 8, 2015. Join us for some excellent Bavarian fare at <a href="http://www.wvrst.com/">WVRST</a>. More details are available on the <a href="http://truenorthphp.ca/wurstcon.php">conference page</a>. If you&rsquo;d like to attend, please RSVP on the <a href="https://www.eventbrite.ca/e/wurstcon-toronto-2015-tickets-19123622269">Eventbrite page</a>.</p>
 
-        <p><small>&#x1f4f7; Photo of Toronto by <a href="https://www.flickr.com/photos/dexxus/2721928484">Paul Bica</a></small></p>
-    </div>
-{% endblock %}
+        {% if event.blocks.teaser is empty %}
+            {{ event.blocks.content|raw }}
+        {% else %}
+            {{ event.blocks.teaser|raw }}
+        {% endif %}
+    {% endif %}
+
+{% endfor %}

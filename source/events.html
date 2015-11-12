@@ -1,0 +1,19 @@
+---
+layout: default
+title: Home Of The Wurst PHP Conference Ever
+generator: pagination
+pagination:
+    max_per_page: 100
+use: [events]
+---
+
+{% set now = "now"|date_modify("-2 day")|date("U") %}
+{% set found = false %}
+
+{% for event in data.events %}
+
+    {% if event.date < now %}
+        <h1><a href="{{event.url}}">{{ event.title }}</a></h1>
+    {% endif %}
+
+{% endfor %}

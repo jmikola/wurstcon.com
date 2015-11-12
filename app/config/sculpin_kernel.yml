@@ -1,7 +1,8 @@
+sculpin_theme:
+  theme: wurstcon/wurstcon
+
 sculpin_content_types:
-    posts:
-        type: path
-        path: _posts
-        permalink: blog/:filename/
-        taxonomies:
-            - tags
+  posts:
+    permalink: blog/:slug
+  events:
+    permalink: event/:year/:title/

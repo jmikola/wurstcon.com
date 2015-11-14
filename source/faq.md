@@ -46,8 +46,8 @@ is a miracle unto itself.
 
 ## Interested?
 
-Get in touch with us on Twitter at [@WurstCon][wurstcon], or bother one of the many, many people we've handed out board
-positions to.
+Get in touch with us on Twitter at [@WurstCon][wurstcon], or bother one of the many, many people to whom we've handed
+out board positions.
 
   [jmikola]: https://twitter.com/jmikola
   [shrtwhitebldguy]: https://twitter.com/shrtwhitebldguy

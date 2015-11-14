@@ -10,7 +10,7 @@
         <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
         <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+        <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 
         <!--[if lt IE 9]>
             <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/r29/html5.min.js"></script>
@@ -36,8 +36,7 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="/schedule"><i class="fa fa-calendar fa-lg"></i>Schedule</a></li>
-                        <li><a href="/travel"><i class="fa fa-car fa-lg"></i>Travel</a></li>
+                        <li><a href="/events"><i class="fa fa-map fa-lg"></i>Past Events</a></li>
                         <li><a href="/faq"><i class="fa fa-question-circle fa-lg"></i>FAQ</a></li>
                         <li><a href="/about"><i class="fa fa-info-circle fa-lg"></i>About</a></li>
                         <!-- <li><a href="/travel"><i class="fa fa-car fa-lg"></i>Travel</a></li> -->
@@ -46,16 +45,12 @@
             </div><!-- /.container-fluid -->
         </header><!-- /.navbar -->
 
-        {% block content_wrapper %}
-            <article id="content" class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                        <header><h1>{{ block('title') }}</h1></header>
-                        <section>{% block content %}{% endblock %}</section>
-                    </div><!-- /.col-md-8 -->
-                </div><!-- /.row -->
-            </article><!-- /.container -->
-        {% endblock %}
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">{% block content %}{% endblock %}</div>
+            </div>
+        </div>
+
 
         <footer class="container">
             <ul class="list-inline pull-left">

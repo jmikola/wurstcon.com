@@ -24,7 +24,7 @@ If you are a conference and want to have a WurstCon, make sure to invite us! We 
 Back in September 2014, [Jeremy Mikola][jmikola] and [Matt Frost][shrtwhitebldguy] decided to head to Hot Doug's to
 eat one last hot dog before the restaurant closed down forever. A bunch of people including the bearded [Daniel Cousineau][dcousineau],
 the naked [Chuck Reeves][manchuck], the drunk [Phil Sturgeon][philsturgeon], and half-man, half-dragon, half-tank
-[Chris Tankersley][dragonmantank] piled into a spacious SUV to head to New York.
+[Chris Tankersley][dragonmantank] piled into a spacious SUV to head to Chicago.
 
 Oh, and [Sammy Kaye Powers][sammyk] lived there, so he didn't have to suffer for the car ride. And Matt drove ahead,
 knowing that spending all that time in the Sante Fe would be his doom. They all made it.

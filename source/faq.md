@@ -61,6 +61,6 @@ out board positions.
   [dshafik]: https://twitter.com/dshafik
   [e3betht]: https://twitter.com/e3BethT
   [ircmaxell]: https://twitter.com/ircmaxell
-  [jmikola]: https://twitter.com/jmikola
+  [sammyk]: https://twitter.com/sammyk
   [seldaek]: https://twitter.com/seldaek
   [hashtag]: https://twitter.com/hashtag/WurstCon

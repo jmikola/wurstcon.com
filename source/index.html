@@ -18,8 +18,8 @@ use: [events]
         <div class="panel panel-default">
             <div class="panel-heading">Event Info</div>
             <div class="panel-body">
-                {% if event.eventbrite is not empty %}
-                    Tickets: <a href="{{ event.eventbrite }}">{{ event.eventbrite }}</a><br />
+                {% if event.rsvp_url is not empty %}
+                    RSVP: <a href="{{ event.rsvp_url }}">{{ event.rsvp_url }}</a><br />
                 {% endif %}
                 Venue: {{ event.venue }}<br />
                 Address: {{ event.address }}<br />

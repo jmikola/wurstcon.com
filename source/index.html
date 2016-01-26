@@ -11,8 +11,8 @@ use: [events]
 {% set found = false %}
 
 {% for event in data.events|reverse %}
-
     {% if event.date >= now %}
+        {% set found = true %}
         <h1>{{ event.title }}</h1>
 
         <div class="panel panel-default">
@@ -26,12 +26,18 @@ use: [events]
             </div>
         </div>
 
-
         {% if event.blocks.teaser is empty %}
             {{ event.blocks.content|raw }}
         {% else %}
             {{ event.blocks.teaser|raw }}
         {% endif %}
     {% endif %}
-
 {% endfor %}
+
+{% if not found %}
+    <h1>404: Sausage Not Found</h1>
+
+    <p>By jove! It appears there (a) aren't any upcoming WurstCon events scheduled or (b) our staff has been negligent in updating the website. You may want to check <a href="https://twitter.com/hashtag/WurstCon">#WurstCon</a> or poke us directly at <a href="https://twitter.com/wurstcon">@WurstCon</a> to see what's up.</p>
+
+    <p>If you're looking for past events, you can find those <a href="/events">here</a>.</p>
+{% endif %}

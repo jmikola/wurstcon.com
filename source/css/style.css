@@ -4,6 +4,15 @@ body {
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+/* #HotDogMenu https://www.youtube.com/watch?v=vNlD1YVM8Jk */
+button.navbar-toggle {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
 body > header a.navbar-brand {
     background-position: left center;
     background-repeat: no-repeat;

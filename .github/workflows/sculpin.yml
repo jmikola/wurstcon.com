@@ -1,0 +1,38 @@
+name: Deploy Sculpin site to Pages
+
+on:
+  push:
+    branches: [ master ]
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: "Setup PHP"
+        uses: "shivammathur/setup-php@v2"
+        with:
+          # Various Sculpin 3.2.x deps are incompatible with PHP 8.2
+          php-version: "8.1"
+          tools: "composer:v2"
+
+      - name: "Install PHP deps"
+        uses: ramsey/composer-install@v2
+
+      - name: "Build production site"
+        run: ./vendor/bin/sculpin generate --env=prod
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/master' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output_prod
+          cname: wurstcon.com

@@ -1,0 +1,16 @@
+{
+    "require": {
+        "sculpin/sculpin": "^3.2"
+    },
+    "config": {
+        "allow-plugins": {
+            "sculpin/sculpin-theme-composer-plugin": false
+        }
+    },
+    "scripts": {
+        "sculpin-watch": [
+            "Composer\\Config::disableProcessTimeout",
+            "sculpin generate --watch --server"
+        ]
+    }
+}

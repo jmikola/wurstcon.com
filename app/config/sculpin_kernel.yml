@@ -3,6 +3,6 @@ sculpin_theme:
 
 sculpin_content_types:
   posts:
-    permalink: blog/:slug
+    enabled: false
   events:
     permalink: event/:year/:title/
